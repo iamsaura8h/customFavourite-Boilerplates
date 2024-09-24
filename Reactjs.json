@@ -1,0 +1,18 @@
+"React Component App": {
+		  "prefix": "rca",
+		  "body": [
+			"import React from 'react';",
+			"",
+			"function ${TM_FILENAME_BASE}() {",
+			"  return (",
+			"    <>",
+			"      $0", 
+			"    </>",
+			"  );",
+			"}",
+			"",
+			"export default ${TM_FILENAME_BASE};"
+		  ],
+		  "description": "Create a React functional component with the filename as the component name and place the cursor inside the fragment."
+		}
+	  
